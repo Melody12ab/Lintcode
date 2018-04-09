@@ -10,4 +10,4 @@
 [1]: https://github.com/Melody12ab/brush_lintcode/tree/master/aplusb
 [2]: https://github.com/Melody12ab/brush_lintcode/tree/master/trailingZeros
 [3]: https://github.com/Melody12ab/brush_lintcode/tree/master/digitCounts
-[3]: https://github.com/Melody12ab/brush_lintcode/tree/master/uglyNumber
+[4]: https://github.com/Melody12ab/brush_lintcode/tree/master/uglyNumber
